@@ -2,7 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 
 // Connessione al database MongoDB
-const dbUrl = process.env.DB_URL || 'mongodb+srv://progettoweb:ciao1@cluster0.nmdyu3l.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const dbUrl = process.env.DB_URL || 'mongodb+srv://progetto:ciao@cl.8mgpwsf.mongodb.net/?retryWrites=true&w=majority&appName=Cl';
 
 mongoose.connect(dbUrl)
     .then(() => console.log('Connessione al database stabilita'))
