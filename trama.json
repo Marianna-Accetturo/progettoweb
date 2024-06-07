@@ -1,0 +1,108 @@
+{
+  "films": [
+    {
+      "title": "The Fast and the Furious",
+      "release_year": 2001,
+      "director": "Rob Cohen",
+      "genre": ["Action", "Crime", "Thriller"],
+      "plot": "Brian O'Conner (Paul Walker) è un agente della polizia di Los Angeles (LAPD), infiltrato con lo pseudonimo di Brian Spilner in una banda che opera nel settore delle gare clandestine. Il capo della banda è Dominic Toretto (Vin Diesel), un campione di gare di auto e criminale fuggitivo. Brian fa presto a conquistare la fiducia di Dom e la sorella di quest'ultimo, Mia. La banda ha bisogno di assalire e rapinare camion per riuscire a sostenere gli ingenti costi dei pezzi di ricambio e delle elaborazioni per i loro bolidi da corsa, il compito di O'Conner sarà quello di riuscire a incastrare i vertici dell'organizzazione. Qualcosa va storto e Brian, per salvare la vita ai suoi nuovi amici, è costretto a liberarli svelando il suo vero lavoro e perdendo la loro fiducia, inoltre nel far ciò diventa a sua volta ricercato.",
+      "artwork": "https://i.ebayimg.com/images/g/WFsAAOSwlRdgWV~4/s-l1600.jpg"
+    },
+    {
+      "title": "2 Fast 2 Furious",
+      "release_year": 2003,
+      "director": "John Singleton",
+      "genre": ["Action", "Crime", "Thriller"],
+      "plot": "Il film vede protagonisti Brian O'Conner e Roman Pearce, vecchi amici d'infanzia separati in seguito all'arresto di Pearce da parte della polizia per cui Brian lavorava. Loro dovranno entrare a far parte, sotto copertura, della squadra di Carter Verone, facoltoso ricercato dell'ONU che propone ai due una gara per testare la loro esperienza. Inoltre, 11 mesi prima si era infiltrata la bella Monica Fuentes, la quale finge di essere amante di Verone. Alla fine saranno scoperti tutti e tre e dovranno fuggire per riuscire a sopravvivere contando solo sui loro amici d'asfalto. All'interno della serie, la pellicola spiega le vicende vissute da Brian dopo aver lasciato fuggire Dominic Toretto.",
+      "artwork": "https://www.spietati.it/wp-content/uploads/2003/12/2-fast-2-furious-ant-1024x768.jpg"
+    },
+    {
+      "title": "The Fast and the Furious: Tokyo Drift",
+      "release_year": 2006,
+      "director": "Justin Lin",
+      "genre": ["Action", "Crime", "Thriller"],
+      "plot": "Sean Boswell è un ragazzo che cerca di affermarsi come pilota nelle corse automobilistiche illegali. Dopo l'ennesima corsa illegale, stavolta in un cantiere, la madre lo spedisce in Giappone da suo padre, un militare in carriera di stanza a Tokyo, per evitargli di finire in riformatorio. Etichettato come gaijin (straniero) ed emarginato poiché non conosce una parola di giapponese, non impiega molto a trovare come amico un ragazzo americano, Twinkie, che lo introduce nel mondo sotterraneo del drifting. Sean provoca il nipote di un boss locale, D.K., e viene da questi sfidato a una gara di drifting. Per vincere viene quindi addestrato da Han Lue, un ex membro del team di Dominic Toretto nonché socio di D.K.",
+      "artwork": "https://pad.mymovies.it/filmclub/2006/06/129/locandina.jpg"
+    },
+    {
+      "title": "Fast & Furious",
+      "release_year": 2009,
+      "director": "Justin Lin",
+      "genre": ["Action", "Crime", "Thriller"],
+      "plot": "Brian O'Conner, dopo essere stato reintegrato nell'FBI, torna nuovamente sotto copertura per infiltrarsi nella banda di un pericoloso trafficante di droga di Los Angeles noto come Braga. Per questa nuova missione Brian dovrà fare coppia proprio con colui che aveva ingannato cinque anni prima: Dominic Toretto. Dom, scoprendo la morte della sua fidanzata Letty (della quale è responsabile Fenix, scagnozzo di Braga), si prepara alla vendetta insieme a Brian. Dovranno quindi incastrare Braga con l'aiuto di un informatore, David Park, che li farà entrare nel giro delle corse clandestine. Ambientato tra Los Angeles e il deserto messicano, questo quarto capitolo della serie riporta insieme sullo schermo Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster e Sung Kang nel ruolo di Han Lue.",
+      "artwork": "https://i.ebayimg.com/images/g/u~kAAOSwdctj1rC~/s-l1200.jpg"
+    },
+    {
+      "title": "Fast Five",
+      "release_year": 2011,
+      "director": "Justin Lin",
+      "genre": ["Action", "Crime", "Thriller"],
+      "plot": "Dopo aver impedito l'arrivo dell'autobus al carcere di massima sicurezza, Mia Toretto e l'ex agente federale Brian O'Conner scappano in Brasile liberando Dominic Toretto. Là, durante una rapina a un treno, rincontrano Vince (componente della banda di Toretto nel primo film della serie, nonché migliore amico sin d'infanzia di Dom) e scoprono che il mandante del furto è un ricco affarista di Rio De Janeiro, Hernan Reyes, interessato a recuperare un chip nascosto nell'autoradio di una macchina rubata precedentemente, la quale contiene tutti i dati dei suoi traffici illeciti da centinaia di milioni di dollari. A causa del furto al treno, Toretto e O'Conner vengono braccati dall'agente Luke Hobbs. Dom e Brian decidono di utilizzare le informazioni del chip per fare un ultimo colpo e derubare tutte le finanze di Reyes. Ma per compiere tutto questo hanno bisogno di formare una nuova squadra con i lori amici apparsi nei precedenti capitoli: Roman Pearce, Tej Parker, Han Lue, Gisele Yashar, Rico Santos, Tego Leo.",
+      "artwork": "https://m.media-amazon.com/images/I/9130NhhqEpL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Fast & Furious 6",
+      "release_year": 2013,
+      "director": "Justin Lin",
+      "genre": ["Action", "Crime", "Thriller"],
+      "plot": "L'agente Luke Hobbs è all’inseguimento di un'organizzazione internazionale di mercenari criminali, la cui mente, Owen Shaw, è aiutata dal suo caparbio e determinato luogotenente che si rivela essere Letty, creduta morta da Dom. L'unico modo per fermare la squadra di criminali è quello di batterli sulla strada, così Hobbs chiede a Dom di rimettere insieme la propria squadra e di recarsi a Londra per unirsi a lui nella caccia a Owen Shaw. In cambio Hobbs promette l'amnistia a Dom e ai suoi in modo da poter tornare a casa con le proprie famiglie.",
+      "artwork": "https://pad.mymovies.it/filmclub/2011/06/227/locandina.jpg"
+    },
+    {
+      "title": "Furious 7",
+      "release_year": 2015,
+      "director": "James Wan",
+      "genre": ["Action", "Crime", "Thriller"],
+      "plot": "Dopo aver ferito in modo grave Owen Shaw e aver ucciso tutti i membri della sua squadra di mercenari nel sesto film, Dom, Brian e la loro squadra sono in grado di ritornare negli Stati Uniti e vivere di nuovo la vita normale come avevano desiderato. Ma il fratello maggiore di Owen, Deckard Shaw (Jason Statham) alle spalle di Dom, cerca vendetta per il ferimento di suo fratello, e dopo la morte di Han in The Fast and the Furious: Tokyo Drift, l'equipaggio stabilisce di fermare l'uomo che ha ucciso uno di loro prima che lui li trovi per primi.[11]",
+      "artwork": "https://mr.comingsoon.it/imgdb/locandine/big/49946.jpg"
+ },
+ {
+      "title": "The Fate of the Furious",
+      "release_year": 2017,
+      "director": "F. Gary Gray",
+      "genre": ["Action", "Crime", "Thriller"],
+      "plot": "Con Dom e Letty in luna di miele e la partenza di Brian e Mia, la squadra sembra aver finalmente trovato la tranquillità tanto desiderata. Ma ovviamente i guai sono dietro l'angolo, e questa volta si manifestano sotto le spoglie della bella e letale Cipher, una spietata terrorista, che riesce a spezzare l'equilibrio della squadra trascinando Dominic dalla sua parte. Per riportarlo alla ragione, Letty, Hobbs e gli altri saranno costretti a chiedere aiuto ad una loro vecchia nemesi, Deckard Shaw.",
+   "artwork": "https://pad.mymovies.it/filmclub/2015/05/205/locandina.jpg"
+    },
+    {
+      "title": "F9: The Fast Saga",
+      "release_year": 2021,
+      "director": "Justin Lin",
+      "genre": ["Action", "Adventure", "Crime"],
+      "plot": "Dom Toretto conduce una vita tranquilla insieme a Letty e a suo figlio, il piccolo Brian, ma non sa che il pericolo è sempre in agguato. Questa volta, una nuova minaccia costringerà Dom a confrontarsi con il suo passato.",
+      "artwork": "https://i.ebayimg.com/images/g/yyYAAOSwnNZhG4Ls/s-l400.jpg"
+    },
+    {
+      "title": "Mission: Impossible - Ghost Protocol",
+      "release_year": 2011,
+      "director": "Brad Bird",
+      "genre": ["Action", "Adventure", "Thriller"],
+      "plot": "Dopo essere stati accusati di un attacco terroristico al Cremlino, l'IMF viene sciolto e il suo team viene costretto ad agire sotto copertura per pulire il loro nome. Con il mondo intero che li considera dei traditori, Ethan Hunt e il suo team devono fermare un terrorista nucleare e prevenire una catastrofe globale."
+      "artwork": "https://m.media-amazon.com/images/I/912EjjYBSTL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Super Mario Kart",
+      "release_year": 1992,
+      "platform": ["Super Nintendo Entertainment System"],
+      "genre": ["Racing"],
+      "plot": "Super Mario Kart è il primo gioco della serie Mario Kart. Offre gare competitive di go-kart con personaggi iconici di Super Mario. I giocatori possono competere in modalità singola o multiplayer e sfidare gli avversari su una varietà di piste tematiche."
+      "artwork":"https://static.posters.cz/image/750/poster/super-mario-kart-retro-i20716.jpg"
+    },
+    {
+      "title": "Mario Kart 64",
+      "release_year": 1996,
+      "platform": ["Nintendo 64"],
+      "genre": ["Racing"],
+      "plot": "Mario Kart 64 è il secondo gioco della serie Mario Kart ed è stato il primo a utilizzare grafica 3D. Offre gare frenetiche con nuove piste e modalità di gioco multiplayer. I giocatori possono competere in gare di corsa, battaglie e molto altro ancora."
+      "artwork": "https://upload.wikimedia.org/wikipedia/it/a/ac/Mario-Kart64.jpg"
+    },
+    {
+      "title": "Mario Kart: Double Dash!!",
+      "release_year": 2003,
+      "platform": ["Nintendo GameCube"],
+      "genre": ["Racing"],
+      "plot": "Mario Kart: Double Dash!! presenta una nuova meccanica di gioco che consente ai giocatori di guidare in coppia. Ogni veicolo può ospitare due piloti, ognuno con il proprio oggetto da usare contro i rivali. Il gioco offre una vasta gamma di piste e modalità di gioco, incluso il multiplayer locale."
+      "artwork":"https://upload.wikimedia.org/wikipedia/it/e/ec/Mario_Kart-_Double_Dash_copertina.png"
+    },
+  ]
+}
