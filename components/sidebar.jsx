@@ -1,20 +1,18 @@
+import { Outlet, Link } from "react-router-dom"
+import SearchButton from "./SearchButton"
+import NewsButton from './newsButton'
 export default function Sidebar() {
     
     return (
         <aside id="side-menu">
             <h1>WEB APP</h1>
             <ul>
-                <li>Area Personale</li>
-                <li>Home</li>
-                <li><button>Cerca</button>
-                    <div><form id="search-bar">
-                            <input type="text" id="search-input" hidden/>
-                        </form>
-                    </div>
-                </li>
-                <li>I Tuoi Eventi</li>
-                <li>Impostazioni</li>
-                <li>Novità</li>
+                <li>Login</li>
+                <li><Link to="/">Home</Link></li>
+                <li><SearchButton /></li>
+                <li><Link to="PersonalEvents">I Tuoi Eventi</Link></li>
+                <li><Link to="Settings">Impostazioni</Link></li>
+                <li><NewsButton /></li>
             </ul>
         </aside>
     )
